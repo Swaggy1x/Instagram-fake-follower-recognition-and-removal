@@ -1,4 +1,4 @@
-# Instagram-fake-follower-recognition-and-removal
+_.swaggy2x._# Instagram-fake-follower-recognition-and-removal
 In this project, i tend to detect fake followers on Instagram and remove them. I have'nt implemented the project yet, but i have the idea and the plan to implement it. I appreciate any collaboration or help.
 
 # Description
